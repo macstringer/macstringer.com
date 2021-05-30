@@ -1,13 +1,5 @@
 module.exports = {
-    exampleStore: [
-        {
-            "name": "Do You Know Nukes?", 
-            "link": "https://www.macstringer.com/doyouknownukes/",
-            "date": "Spring, 2021",
-            "description":"I built this site for an environmental science class in spring 2021. It takes my knowledge of Nuclear Energy plants, and synthesizes it into an educational website.",
-            "skills": ["Vue","HTML/CSS","JavaScript"],
-            "gitHub":"https://github.com/macstringer/nuclearenergy"
-        },  
+    exampleStore: [ 
         {
             "name": "Chess Practice Tool", 
             "link": "https://compsci290_2021spring.dukecs.io/portfolio_jms223/chess/chess_frontend/dist/index.html",
@@ -16,6 +8,14 @@ module.exports = {
             "skills": ["Vue","HTML/CSS","JavaScript","NodeJS"],
             "gitHub":"https://github.com/macstringer/chess"
         },  
+        {
+            "name": "Do You Know Nukes?", 
+            "link": "https://macstringer.github.io/doyouknownukes/",
+            "date": "Spring, 2021",
+            "description":"I built this site for an environmental science class in spring 2021. It takes my knowledge of Nuclear Energy plants, and synthesizes it into an educational website.",
+            "skills": ["Vue","HTML/CSS","JavaScript"],
+            "gitHub":"https://github.com/macstringer/nuclearenergy"
+        }, 
         {
             "name": "90s Themed Page", 
             "link": "https://compsci290_2021spring.dukecs.io/portfolio_jms223/",
