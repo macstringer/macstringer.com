@@ -14,6 +14,16 @@
             <div class="element">
                 <h1> Work Experience </h1>
                 <div class="card">
+                    <h2> 314Action - Software Engineering Intern </h2>
+                    <h3> Jan 2022 - April 2022 </h3>
+                    <p> Constructed a comprehensive and adaptive Python/PANDAS script to clean, consolidate, and filter through
+                        millions of records to identify STEM professionals who had donated to political campaigns.
+                    </p>
+                    <p> Worked on a full-stack FEC API, with a React and Flask to provide easy access to FEC data. </p>
+                    <p> Optimized Airtable database, using automation functions to sync data across sheets, saving time in data entry. </p>
+                </div>
+
+                <div class="card">
                     <h2> Cal Cunningham Senate Finance Team – Data Science Intern </h2>
                     <h3> Aug 2020 – Nov 2020 </h3>
                     <p>
@@ -42,6 +52,31 @@
             </div>
 
             <div class="element">
+                <h1> Languages and Skills </h1>
+                <div class="card">
+                    <div> 
+                        <p> <b> Programming: </b> </p>
+                        <p class="skillList"> Python, Java, C stdlib, JavaScript, HTML/CSS, Vue, React, PANDAS, Selenium </p>
+                    </div>
+                    <div>
+                        <p> <b> Technology: </b> </p>
+                        <p class="skillList"> GIT, Jetbrains IDEs, Node/npm, zsh, Bash, Microsoft Office Suite, macOS, iOS </p>
+                    </div>
+                    
+                    <div>
+                        <p> <b> Foreign: </b> </p>
+                        <p class="skillList"> Mandarin Chinese (proficient) </p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <h2> Foreign Languages </h2>
+                    <p> Mandarin Chinese (Proficient) </p>
+                </div>
+
+            </div>
+
+            <div class="element">
                 <h1> Leadership Experience </h1>
                 <div class="card">
                     <h2>Duke Engage Program in Washington DC </h2>
@@ -56,19 +91,6 @@
                         Strengthened my knowledge on political, social, and international affairs by attending talks on a variety of subjects: NC hog farming, NIH cancer research, modern conservatism, local gentrification, etc.
                     </p>
                 </div>
-                <div class="card">
-                    <h2>Chapel Hill Youth Council (CHYC) – Founder, President </h2>
-                    <h3> Nov 2014 - May 2018 </h3>
-                    <p>
-                        Rebuilt the defunct CHYC around bringing youth representation to Chapel Hill town government.
-                    </p>
-                    <p>
-                        Expanded the program from 3 to over 30 by recruiting students from multiple schools.
-                    </p>
-                    <p>
-                        Served as Youth Liaison to the Town of Chapel Hill Community Design Commission, to review new development on behalf of the town and set guidance for the town’s vision on aesthetics, character, and function. 
-                    </p>
-                </div>
             </div>
             
             <div class="element">
@@ -81,24 +103,13 @@
             </div>
 
             <div class="element">
-                <h1> Skills and Interests </h1>
-                <div class="card">
-                    <h2> Programming Languages </h2> 
-                    <p> 
-                        HTML/CSS, JavaScript, Vue, Java, Python, MIPS, Computer Networking Skills, Selenium
-                    </p>
-                </div>
+                <h1> Hobbies </h1>
+                <p> <b> Carpentry </b> </p>
+                <p> <b> Board Sports </b>(Snow, Skate, Surf)</p>
+                <p> <b> Chess </b> rated 1250 on chess.com </p>
 
-                <div class="card">
-                    <h2> Foreign Languages </h2>
-                    <p> Mandarin Chinese (Proficient) </p>
-                </div>
-
-                <div class="card">
-                    <h2> Chess </h2>
-                    <p> Play a lot of casual chess with my friends – rated 1250 on chess.com. </p>
-                </div>
             </div>
+
         </div>
     </div>
 </template>
@@ -156,6 +167,10 @@ p {
 .card {
     padding-bottom: 3%;
     padding-left: 3%;
+}
+
+.skillList{
+    margin-left: 5%;
 }
 
 </style>

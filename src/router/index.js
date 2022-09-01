@@ -4,6 +4,7 @@ import Home from '../views/Home.vue'
 import Cv from '../views/Cv.vue'
 import Projects from '../views/Projects.vue'
 import DronePhotos from '../views/DronePhotos.vue'
+import Spotify from '../views/Spotify.vue'
 
 Vue.use(VueRouter)
 
@@ -27,6 +28,11 @@ const routes = [
     path: "/dronephotos",
     name: 'dronePhotos',
     component: DronePhotos
+  },
+  {
+    path: '/spotify',
+    name: 'spotify',
+    component: Spotify
   }
 ]
 

@@ -10,9 +10,14 @@
         </div>
         <div>
           <p>
-            Hi I'm Mac! Welcome to my website! Currently I'm a student at Duke University, 
-            interested in a lot of things including, but not limited to, politics, computer science, 
-            environmental science, design, and Chinese.
+            Hi I'm Mac! Welcome to my website! 
+          </p>
+          <p>
+            A creative and organized team player, who just graduated with a dual computer science / political science degree,
+            I'm obsessed with adventure, maps, and figuring out how the world works. 
+          </p>
+          <p>
+            I also like to think I'm good at understanding consumers.
           </p>
         </div>
       </div>

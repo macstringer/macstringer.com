@@ -4,6 +4,7 @@
       <router-link :to="{ name: 'cv' }">cv</router-link>
       <router-link :to="{ name: 'projects' }">projects</router-link>
       <router-link :to="{ name: 'dronePhotos' }"> drone photography </router-link>
+      <router-link :to="{ name: 'spotify' }"> spotify playlists </router-link>
     </div>
 </template>
 
@@ -19,10 +20,10 @@ export default {
     text-decoration: none;
     padding: 30px;
     text-align: center;
+
 }
 
 #nav a {
-    color: #2c3e50;
     text-decoration: none;
     margin: 1.75%;
 }

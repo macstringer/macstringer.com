@@ -1,5 +1,14 @@
+
 module.exports = {
     exampleStore: [ 
+        {
+            "name": "Duke Congressional Internship Opportunities",
+            "link": "https://macstringer.github.io/congop/",
+            "date": "Spring, 2022",
+            "description": "I was hired to build this site to assist Duke students in finding congressional internships. The field is notoriously fractured because each office posts their own internships seperately. The most interesting part of this project was the filtering algorithms.",
+            "skills": ["Vue", "JavaScript", "NodeJS"],
+            "gitHub": "https://github.com/macstringer/congop"
+        },
         {
             "name": "Chess Practice Tool", 
             "link": "https://compsci290_2021spring.dukecs.io/portfolio_jms223/chess/chess_frontend/dist/index.html",
