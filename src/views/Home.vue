@@ -2,7 +2,7 @@
   <div class="home">
     <div class="homePanels">
       <div class="pic">
-        <img id="macpic" src="@/assets/macpic.jpg" alt="A picture of me">
+        <img id="macpic" src="@/assets/headshot.jpg" alt="A picture of me">
       </div>
       <div class="description">
         <div>
@@ -13,12 +13,13 @@
             Hi I'm Mac! Welcome to my website! 
           </p>
           <p>
-            A creative and organized team player, who just graduated with a dual computer science / political science degree,
-            I'm obsessed with adventure, maps, and figuring out how the world works. 
+            A creative and organized team player, with experience in development and sales engineering.
+            Studied computer science, political science, and Chinese.
           </p>
           <p>
-            I also like to think I'm good at understanding consumers.
+            I'm obsessed with adventure, maps, and understanding new and complex systems. 
           </p>
+          <!-- and understanding how the world works? -->
         </div>
       </div>
     </div>    
