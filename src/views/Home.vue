@@ -13,7 +13,7 @@
             Hi I'm Mac! Welcome to my website! 
           </p>
           <p>
-            A creative and organized team player, with experience in development and sales engineering.
+            A creative and organized team player, with experience in development and customer relations.
             Studied computer science, political science, and Chinese.
           </p>
           <p>
