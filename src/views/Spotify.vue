@@ -17,12 +17,11 @@
 export default {
     data () {
       return {
-          spotifyLinks: ["https://open.spotify.com/embed/playlist/5vHqiIbE0GLElmib12Eixo", "https://open.spotify.com/embed/playlist/24JE7jsike2IM3TOHHdUAq",
-                         "https://open.spotify.com/embed/album/6cx4GVNs03Pu4ZczRnWiLd","https://open.spotify.com/embed/playlist/2SZTBfmiB1WY1TGp1OKHJK",
-                         "https://open.spotify.com/embed/playlist/5ybJnbFLxJBmEotARGlzKI", "https://open.spotify.com/embed/playlist/1xpRB92bJjrQOU2ziuuZYz",
-                         "https://open.spotify.com/embed/playlist/4p2adTLzdpubjrlZc75odB", "https://open.spotify.com/embed/playlist/2OFAMXaly5l96MLyNjQDGa",
-                         "https://open.spotify.com/embed/playlist/2S9EdH6jm3vnwxOIVhitBX", "https://open.spotify.com/embed/playlist/5ybJnbFLxJBmEotARGlzKI", 
-                         "https://open.spotify.com/embed/playlist/7g7SLadPhk6h6d2CzhkjrR", "https://open.spotify.com/embed/playlist/0TKwIPo07zZT8e7g3FEmMs"]
+          spotifyLinks: ["https://open.spotify.com/embed/playlist/37i9dQZF1FoCg2QTi4nwR1", "https://open.spotify.com/embed/playlist/37i9dQZF1Fag9AiERcbpcL",
+                         "https://open.spotify.com/embed/album/7I42wZ3TW926k1DXrotD1M", "https://open.spotify.com/embed/album/6jQfrdXytY9eCPVul96Oc6",
+                         "https://open.spotify.com/embed/album/6Wpawdx7fSuBAKY0t793fx", "https://open.spotify.com/embed/playlist/5LYs2SDWXwxa1GPg8rH4AQ",
+                         "https://open.spotify.com/embed/playlist/5WMPo5ELwaXnBaESqdwYXC", "https://open.spotify.com/embed/playlist/3dgRB5bRoXlgKJ259Ibh8L"
+          ]
       }
     }
     // beforeCreate () {
@@ -60,3 +59,4 @@ export default {
     padding: 1%;
 }
 </style>
+

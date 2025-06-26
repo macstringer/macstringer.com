@@ -17,7 +17,7 @@
             Studied computer science, political science, and Chinese.
           </p>
           <p>
-            I'm obsessed with adventure, maps, and understanding new and complex systems. 
+            I'm passionate about in adventure, maps, and understanding new and complex systems. 
           </p>
           <!-- and understanding how the world works? -->
         </div>
