@@ -24,7 +24,7 @@
 
 <script>
 import projectExample from '../components/projectExample.vue'
-const { exampleStore } = require('../projectData.js');
+import { exampleStore } from '../projectData.js'
 
 
 export default {
