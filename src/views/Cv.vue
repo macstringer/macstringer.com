@@ -2,10 +2,6 @@
     <div class="content">
         <div class="contentMain">
 
-            <div class="cv-header">
-                <p class="email">jmacstringer@gmail.com</p>
-            </div>
-
             <div class="element">
                 <h1> Education </h1>
                 <div class="card">
@@ -175,6 +171,7 @@ a:hover {
 
 .element {
     padding-bottom: 3%;
+    width: 100%;
 }
 .card {
     padding-bottom: 3%;

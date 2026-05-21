@@ -10,14 +10,17 @@
         </div>
         <div>
           <p>
-            Hi I'm Mac! Welcome to my website! 
+            Forward deployed engineer who scopes, builds, and demos enterprise software. 
           </p>
           <p>
-            A creative and organized team player, with experience in development and customer relations.
-            Studied computer science, political science, and Chinese.
+            3+ years shipping full stack projects (TS/Vue, Java, Python, Docker) integrating with national customers and replacing legacy solutions. 
           </p>
           <p>
-            I'm passionate about in adventure, maps, and understanding new and complex systems. 
+            Co-architected Toshiba's first fuel &amp; convenience product opening a $1B vertical. 
+            Runs live demos and integration workshops for 16+ retailers including Whole Foods and Meijer — closing 4 million-dollar deals. 
+          </p>
+          <p>
+            Looking to leverage my technical and academic background in the startup space.
           </p>
           <!-- and understanding how the world works? -->
         </div>
