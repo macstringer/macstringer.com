@@ -17,9 +17,8 @@
 export default {
     data () {
       return {
-          spotifyLinks: ["https://open.spotify.com/embed/playlist/37i9dQZF1FoCg2QTi4nwR1", "https://open.spotify.com/embed/playlist/37i9dQZF1Fag9AiERcbpcL",
-                         "https://open.spotify.com/embed/album/7I42wZ3TW926k1DXrotD1M", "https://open.spotify.com/embed/album/6jQfrdXytY9eCPVul96Oc6",
-                         "https://open.spotify.com/embed/album/6Wpawdx7fSuBAKY0t793fx", "https://open.spotify.com/embed/playlist/5LYs2SDWXwxa1GPg8rH4AQ",
+          spotifyLinks: ["https://open.spotify.com/embed/playlist/681Q0BNogfbTa59r89h3zg", "https://open.spotify.com/embed/playlist/681Q0BNogfbTa59r89h3zg",
+                         "https://open.spotify.com/embed/album/7I42wZ3TW926k1DXrotD1M", "https://open.spotify.com/embed/playlist/5LYs2SDWXwxa1GPg8rH4AQ",
                          "https://open.spotify.com/embed/playlist/5WMPo5ELwaXnBaESqdwYXC", "https://open.spotify.com/embed/playlist/3dgRB5bRoXlgKJ259Ibh8L"
           ]
       }
