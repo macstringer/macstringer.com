@@ -115,25 +115,28 @@ export default {
 h1 {
   color: #2e2e2e;
   font-family: "Helvetica Neue", Helvetica, sans-serif;
-  font-size: 2.25rem;
+  font-size: 1.8rem;
+  margin: 0 0 0.5rem 0;
 }
 h2 {
   color: #2e2e2e;
   font-family: "Helvetica Neue", Helvetica, sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
+  margin: 0 0 0.25rem 0;
 }
 h3 {
   color: #929292;
   font-family: "Helvetica Neue", Helvetica, sans-serif;
-  font-size: 1.1rem;
+  font-size: 0.875rem;
   font-weight: normal;
+  margin: 0 0 0.25rem 0;
 }
 
 p {
-  font-size: 1.25rem;
+  font-size: 1rem;
   font-family: "Neue Haas Grotesk Display Pro", "Helvetica Neue", Helvetica, sans-serif;
   color: #2e2e2e;
-  line-height: 1.75rem;
+  line-height: 1.4rem;
   margin-bottom: 0%;
   margin-top: 1%;
 }
@@ -152,8 +155,8 @@ a:hover {
   padding-bottom: 0.5rem;
 }
 
-.email a {
-  font-size: 1.1rem;
+.email {
+  font-size: 0.875rem;
   font-family: "Neue Haas Grotesk Display Pro", "Helvetica Neue", Helvetica, sans-serif;
 }
 
