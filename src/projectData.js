@@ -1,6 +1,5 @@
 
-module.exports = {
-    exampleStore: [ 
+export const exampleStore = [
         {
             "name": "Duke Congressional Internship Opportunities",
             "link": "https://macstringer.github.io/congop/",
@@ -32,6 +31,5 @@ module.exports = {
             "description":"This site was constructed for a web app design class, but I decided to style it as if it were from the 90s. It uses a little bit of Vue, but is primarily HTML, CSS and JavaScript.",
             "skills": ["HTML/CSS","JavaScript","Vue"],
             "gitHub":"https://github.com/macstringer/90sThemed"
-        },  
-    ],
-};
+        },
+]
