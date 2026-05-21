@@ -1,6 +1,11 @@
 <template>
     <div class="content">
         <div class="contentMain">
+
+            <div class="cv-header">
+                <p class="email">jmacstringer@gmail.com</p>
+            </div>
+
             <div class="element">
                 <h1> Education </h1>
                 <div class="card">
@@ -68,11 +73,11 @@
             <div class="element">
                 <h1> Technical Projects </h1>
                 <div class="card">
-                    <h2> Congressional Opportunities Listings </h2>
+                    <h2><a href="https://macstringer.github.io/congop/" target="_blank" rel="noopener">Congressional Opportunities Listings</a></h2>
                     <p> VueJS tool developed at the request of a professor to help political science students discover and filter congressional internship openings. </p>
                 </div>
                 <div class="card">
-                    <h2> FEC Open API Page </h2>
+                    <h2><a href="https://macstringer.github.io/fecmvpish" target="_blank" rel="noopener">FEC Open API Page</a></h2>
                     <p> Tool to download and explore candidate campaign finance data from the FEC. </p>
                 </div>
             </div>
@@ -80,7 +85,7 @@
             <div class="element">
                 <h1> Research </h1>
                 <div class="card">
-                    <h2> The Lunar Effect on Delivery and Other Birth Outcomes in Rural Zambia </h2>
+                    <h2><a href="https://www.mjz.co.zm/index.php/mjz/article/view/93/82" target="_blank" rel="noopener">The Lunar Effect on Delivery and Other Birth Outcomes in Rural Zambia</a></h2>
                     <h3> Medical Journal of Zambia, Vol. 44, No. 4: 233–137 (2017) </h3>
                     <p> Analyzed birth outcome data from rural Zambia to debunk the lunar effect on delivery — published in the Medical Journal of Zambia (2017). </p>
                 </div>
@@ -131,6 +136,25 @@ p {
   line-height: 1.75rem;
   margin-bottom: 0%;
   margin-top: 1%;
+}
+
+a {
+  color: inherit;
+  text-decoration: underline;
+}
+
+a:hover {
+  filter: brightness(2.5);
+}
+
+.cv-header {
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+
+.email a {
+  font-size: 1.1rem;
+  font-family: "Neue Haas Grotesk Display Pro", "Helvetica Neue", Helvetica, sans-serif;
 }
 
 .contentMain {
